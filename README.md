@@ -1,6 +1,6 @@
 # npmdoc-cliui
 
-#### api documentation for  [cliui (v3.2.0)](https://github.com/yargs/cliui#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cliui.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cliui) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cliui.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cliui)
+#### basic api documentation for  [cliui (v3.2.0)](https://github.com/yargs/cliui#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cliui.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cliui) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cliui.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cliui)
 
 #### easily create complex multi-column command-line-interfaces
 
@@ -100,7 +100,8 @@
             "it"
         ]
     },
-    "version": "3.2.0"
+    "version": "3.2.0",
+    "bin": {}
 }
 ```
 
